@@ -12,11 +12,9 @@ public class Bedroom {
     Bed bed;
     Lamp lamp;
 
-    public Bedroom(){
 
-    }
 
-    public Bedroom(String name, Wall w1, Wall w2, Wall w3, Wall w4, Ceiling ceiling){
+    public Bedroom(String name, Wall w1, Wall w2, Wall w3, Wall w4, Ceiling ceiling,Bed bd, Lamp lm){
         this.name = name;
         this.w1 = w1;
         this.w2 = w2;
@@ -25,6 +23,10 @@ public class Bedroom {
 
 
         this.ceil = ceiling;
+
+        this.lamp = lm;
+
+        this.bed = bd;
     }
 
     //setters
@@ -52,6 +54,16 @@ public class Bedroom {
 
     public void make(){
         System.out.println("Bedroom class ----> calling make() method.");
+    }
+
+    public String toString(){
+
+        //bedroom has four walls in the north, south, east, west, and the ceiling has a height of ___ and ___ color
+        //and the bedroom has a lamp. The lamp has __ color, and its lifespan is ___ ly.
+        //
+
+        String result = "Bedroom has four Walls in Directions of ["+ w1 + " " + w2 + " " +  w3 + " " +  w4 + "]\nThe Ceiling has a height of:  " + ceil.getHeight() + " and " + ceil.getColorOfPaint()+ " color";
+            return result;
     }
 
 

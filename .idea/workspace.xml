@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a086106-dc49-4048-a558-8d284f881785" name="Changes" comment="njknjk">
+    <list default="true" id="3a086106-dc49-4048-a558-8d284f881785" name="Changes" comment="The mitochondria is the powerhouse of the cell.">
+      <change afterPath="$PROJECT_DIR$/src/BuildMyBedroom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bedroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ceiling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Wall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "bigb0ss17"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bigb0ss17&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/bigb0ss17/compositionBedroom.git",
-    "accountId": "6111efbc-f889-4b75-9d0f-d1ba6390d4ad"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bigb0ss17/compositionBedroom.git&quot;,
+    &quot;accountId&quot;: &quot;6111efbc-f889-4b75-9d0f-d1ba6390d4ad&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2m1x022UUpLh4uykIBSotkwGF8M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BuildMyBedroom.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -73,11 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1726258767126</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="The mitochondria is the powerhouse of the cell.">
+      <option name="closed" value="true" />
+      <created>1726260075929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726260075929</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="njknjk" />
-    <option name="LAST_COMMIT_MESSAGE" value="njknjk" />
+    <MESSAGE value="The mitochondria is the powerhouse of the cell." />
+    <option name="LAST_COMMIT_MESSAGE" value="The mitochondria is the powerhouse of the cell." />
   </component>
 </project>
